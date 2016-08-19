@@ -1,7 +1,7 @@
 # This is a project from The Open University of Israel
 # C-Assembler
-We were given a new programing language.
-The program reads a file written with the new programing language.
+We were given a new programming language.
+The program reads a file written with the new programming language.
 The program will read the file twice:
 
 1. Search for errors in the language (wrong formatting or incorrect calls).
